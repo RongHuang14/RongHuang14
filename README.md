@@ -8,11 +8,13 @@
 
 <h1 align="left">🌟 About me</h1>
 
-###
+### 
 
-<p align="left">🎯 **Actively looking for 2026 Summer Internship/New Grad opportunities** (Open to relocation!)<br>💼 **Open Source Contributor** @ **Google Summer of Code** | **SWE Intern** @ **RedNote (Xiaohongshu)** | **IntegralPivots** | **ByteDance**<br>💪 Passionate about **backend engineering**, **distributed systems**, **cloud technologies**, and **AI agents** (RAG/Agent/Function Calling/MCP)<br>📩 Feel free to reach out: **reginahuang.me@gmail.com**</p>
+🎯 **Actively looking for 2026 Summer Internship/New Grad opportunities** (Open to relocation!)  
+💼 **Open Source Contributor** @ **Google Summer of Code** | **Ex-SWE Intern** @ **RedNote (Xiaohongshu)** | **Ex-SWE Intern** @ **IntegralPivots** | **Ex-SWE Intern** @ **ByteDance**  
+💪 Passionate about **backend engineering**, **distributed systems**, **cloud technologies**, and **AI agents** (RAG/Agent/Function Calling/MCP)  
+📩 Feel free to reach out: reginahuang.me@gmail.com
 
-###
 
 <h1 align="left">💻 Programming Languages:</h1>
 
