@@ -10,11 +10,10 @@
 
 ### 
 
-🎯 **Actively looking for 2026 Summer Internship/New Grad opportunities** (Open to relocation!)  
-💼 **Open Source Contributor** @ **Google Summer of Code** | **Ex-SWE Intern** @ **RedNote (Xiaohongshu)** | **Ex-SWE Intern** @ **IntegralPivots** | **Ex-SWE Intern** @ **ByteDance**  
-💪 Passionate about **backend engineering**, **distributed systems**, **cloud technologies**, and **AI agents** (RAG/Agent/Function Calling/MCP)  
-📩 Feel free to reach out: reginahuang.me@gmail.com
-
+- 🎯 Actively looking for **2026 Summer Internship/New Grad opportunities** (Open to relocation!)  
+- 💼 **Open Source Contributor** @ **Google Summer of Code** | **Ex-SWE Intern** @ **RedNote (Xiaohongshu)** | **Ex-SWE Intern** @ **IntegralPivots** | **Ex-SWE Intern** @ **ByteDance**  
+- 💪 Passionate about **backend engineering**, **distributed systems**, **cloud technologies**, and **AI agents** (RAG/Agent/Function Calling/MCP)  
+- 📩 Feel free to reach out: reginahuang.me@gmail.com
 
 <h1 align="left">💻 Programming Languages:</h1>
 
