@@ -10,7 +10,7 @@
 
 ### 
 
-- 🎯 Actively looking for **2026 Summer Internship/New Grad opportunities** (Open to relocation!)  
+- 🎯 Actively looking for **2026 New Grad opportunities** (Open to relocation!)  
 - 💼 **SWE Intern @ Tiktok | Open Source Contributor** @ **Google Summer of Code** | **Ex-SWE Intern** @ **RedNote (Xiaohongshu)**
 - 💪 Passionate about **AI infra**,**distributed systems**, **cloud technologies**, **backend engineering**
 - 📩 Feel free to reach out: reginahuang.me@gmail.com
