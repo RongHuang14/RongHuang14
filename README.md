@@ -6,7 +6,7 @@
 
 🌱 Looking for 2027 New Grad roles in **AI Infrastructure & Distributed Systems** (open to relocation)
 
-💻 Experience:
+💼 Experience:
 - **LinkedIn** — Data Infrastructure & LLM Agents
 - **TikTok** — Ads Infrastructure & Observability
 - **Google Summer of Code** — LLM Agents · Text-to-GraphQL
@@ -16,8 +16,8 @@
 
 ## Tech
 
-⌨️ Python · Go · C++ · Java · TypeScript · Rust
+🧑‍💻 Python · Go · C++ · Java · TypeScript · Rust
 
-🧠 LLM Serving · RAG · gRPC · Kafka · Redis · Raft · Spark · Flink
+⚙️ LLM Serving · RAG · gRPC · Kafka · Redis · Raft · Spark · Flink
 
 ☁️ Docker · Kubernetes · AWS
