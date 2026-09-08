@@ -4,7 +4,7 @@
 
 🔭 Master's student in Computer Science at Northeastern University
 
-🎯 Targeting **AI Infrastructure & Distributed Systems** roles — 2027 New Grad, open to relocation
+🎯 Looking for 2027 New Grad roles in **AI Infrastructure & Distributed Systems** (open to relocation)
 
 💻 Experience:
 - **LinkedIn** — Data Infrastructure & LLM Agents
@@ -13,3 +13,9 @@
 - **RedNote (Xiaohongshu)** — RAG & Retrieval
 
 📫 Contact Me: reginahuang.me@gmail.com
+
+## Tech
+
+**AI Infra & Distributed Systems** · LLM Agents · RAG · Spark · Flink · Kafka · Raft · gRPC
+
+<img src="https://skillicons.dev/icons?i=py,go,java,scala,ts,cpp,pytorch,fastapi,kafka,redis,kubernetes,docker,aws,gcp&perline=14" alt="tech icons" />
