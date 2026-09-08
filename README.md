@@ -4,7 +4,7 @@
 
 🔭 Master's student in Computer Science at Northeastern University
 
-🚀 Looking for 2027 New Grad roles in **AI Infrastructure & Distributed Systems** (open to relocation)
+🧭 Looking for 2027 New Grad roles in **AI Infrastructure & Distributed Systems** (open to relocation)
 
 💻 Experience:
 - **LinkedIn** — Data Infrastructure & LLM Agents
@@ -16,8 +16,4 @@
 
 ## Tech
 
-⌨️ Python · Go · C++ · Java · TypeScript
-
-🧠 LLM Serving · RAG · gRPC · Kafka · Redis · Raft · Spark · Flink
-
-☁️ Docker · Kubernetes · AWS
+Python Go C++ Java TypeScript · LLM Serving RAG gRPC Kafka Redis Raft Spark Flink · Docker Kubernetes AWS
