@@ -4,7 +4,7 @@
 
 🔭 Master's student in Computer Science at Northeastern University
 
-🌱 **New Grad 2027 Software Engineer** — focused on AI Infrastructure & Distributed Systems (open to relocation)
+🌱 Seeking **New Grad 2027 Software Engineer** roles — focused on AI Infrastructure & Distributed Systems (open to relocation)
 
 💼 Experience:
 - **LinkedIn** — SWE Intern · Data Infra & LLM Agents
