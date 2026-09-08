@@ -7,17 +7,17 @@
 🌱 Looking for 2027 New Grad roles in **AI Infrastructure & Distributed Systems** (open to relocation)
 
 💼 Experience:
-- **LinkedIn** — Data Infrastructure & LLM Agents
-- **TikTok** — Ads Infrastructure & Observability
-- **Google Summer of Code** — LLM Agents · Text-to-GraphQL
-- **RedNote (Xiaohongshu)** — RAG & Retrieval
+- **LinkedIn** — SWE Intern · Data Infra & LLM Agents
+- **TikTok** — SWE Intern · Ads Infrastructure & Observability
+- **Google Summer of Code** — Open Source Contributor · LLM Agents · Text-to-GraphQL
+- **RedNote (Xiaohongshu)** — SWE Intern · RAG & Retrieval
 
 📫 Contact Me: reginahuang.me@gmail.com
 
 ## Tech
 
-🧑‍💻 Python · Go · C++ · Java · TypeScript · Rust
+🧑‍💻 Python · Go · C++ · Java · Rust · TypeScript
 
-⚙️ LLM Serving · RAG · gRPC · Kafka · Redis · Raft · Spark · Flink
+⚡ LLM Serving · RAG · gRPC · Kafka · Redis · Raft · Spark · Flink
 
 ☁️ Docker · Kubernetes · AWS
