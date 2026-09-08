@@ -8,7 +8,7 @@
 
 💼 Experience:
 - **LinkedIn** — SWE Intern · Data Infra & LLM Agents
-- **TikTok** — SWE Intern · Ads Infrastructure & Observability
+- **TikTok** — SWE Intern · Ads Infra & Observability
 - **Google Summer of Code** — Open Source Contributor · LLM Agents · Text-to-GraphQL
 - **RedNote (Xiaohongshu)** — SWE Intern · RAG & Retrieval
 
